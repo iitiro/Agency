@@ -1,0 +1,35 @@
+{
+  "creators": [
+    {
+      "name": "Kudinov, Igor",
+      "orcid": "0000-0001-7785-1637"
+    }
+  ],
+  "title": "Agency: AI-assisted analysis and coding of scholarly sources",
+  "version": "1.0.1",
+  "description": "A research workflow for AI-assisted analysis, annotation, evidence extraction, relevance assessment, and thematic coding of scholarly sources on subjectivity, identity, agency, selfhood, reflexivity, and lived experience.",
+  "access_right": "open",
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "research software",
+    "scholarly sources",
+    "artificial intelligence",
+    "content analysis",
+    "thematic coding",
+    "subjectivity",
+    "identity",
+    "agency",
+    "selfhood",
+    "reflexivity",
+    "lived experience"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/iitiro/Agency",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

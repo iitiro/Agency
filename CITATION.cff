@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Agency: AI-assisted analysis and coding of scholarly sources"
+type: software
+authors:
+  - family-names: "Kudinov"
+    given-names: "Igor"
+    orcid: "https://orcid.org/0000-0001-7785-1637"
+version: "1.0.1"
+date-released: 2026-11-13
+license: MIT
+repository-code: "https://github.com/iitiro/Agency"
+url: "https://github.com/iitiro/Agency"
+abstract: >-
+  A research workflow for AI-assisted analysis, annotation, evidence
+  extraction, relevance assessment, and thematic coding of scholarly sources
+  on subjectivity, identity, agency, selfhood, reflexivity, and lived
+  experience.
+keywords:
+  - research software
+  - scholarly sources
+  - artificial intelligence
+  - content analysis
+  - thematic coding
+  - subjectivity
+  - identity
+  - agency
+  - selfhood
+  - reflexivity
+  - lived experience
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24197421"
